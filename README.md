@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hey, It's me Reka. 
+🌟 Aspiring Full-Stack Developer 🌟  
+
 
 <!--
 **Reka2402/Reka2402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
