@@ -1,11 +1,9 @@
 # Hey, It's me Reka. 
 🌟 Aspiring Full-Stack Developer 🌟  
 
-# Hey, It's me [Your Name]  
-🌟 Aspiring Full-Stack Developer 🌟  
-
 🔎 **Connect with me** 🔎  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/reka2405)  
+
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/reka_jajeindren/profilecard/?igsh=NmgwdWdzZHlzeDU3)  
 
 
@@ -13,10 +11,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working As a Trainee in UnicomTIC
 - 🌱 I’m currently learning FullStack Development
-- ### 📊 Reka's GitHub Stats
-(https://github-readme-stats.vercel.app/api?username=Reka2402&show_icons=true&theme=dark)  
 ### 🚀 Most Used Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?=Reka2402&layout=compact&theme=dark)  
 
 ### 🛠 Languages and Tools  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
