@@ -2,17 +2,20 @@
 🌟 Aspiring Full-Stack Developer 🌟  
 
 🔎 **Connect with me** 🔎  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/reka2405)  
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/reka_jajeindren/profilecard/?igsh=NmgwdWdzZHlzeDU3)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/reka2405)     [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/reka_jajeindren/profilecard/?igsh=NmgwdWdzZHlzeDU3)  
 
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working As a Trainee in UnicomTIC
 - 🌱 I’m currently learning FullStack Development
+
+  
+## 📊 My GitHub Stats  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Reka2402&show_icons=true&theme=dark)  
+
 ### 🚀 Most Used Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?=Reka2402&layout=compact&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Reka2402&layout=compact&theme=dark)  
+
 
 ### 🛠 Languages and Tools  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -21,6 +24,17 @@ Here are some ideas to get you started:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
+
+
+## 🖥 Tools I Use  
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)  
+
+<p align="center"> 
+  💻 **Turning ideas into seamless web experiences** 🚀  
+</p>
 
 
 
