@@ -5,7 +5,7 @@
 <p align="center">
 🔎 **Connect with me** 🔎 
   <br>
- <a href="www.linkedin.com/in/reka2405">
+ <a href="[www.linkedin.com/in/reka2405](https://www.linkedin.com/in/reka2405/)">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
   </a>
   
