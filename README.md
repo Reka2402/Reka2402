@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning FullStack Development
 
   
-## 📊 My GitHub Stats  
+## 📊 My GitHub Status 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Reka2402&show_icons=true&theme=dark)  
 
 ### 🚀 Most Used Languages  
