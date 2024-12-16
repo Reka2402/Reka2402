@@ -1,10 +1,18 @@
+<p align="center">
 # Hey, It's me Reka. 
-🌟 Aspiring Full-Stack Developer 🌟  
+🌟 Aspiring Full-Stack Developer 🌟 
+</p>
+<p align="center">
+🔎 **Connect with me** 🔎 
+  <br>
+ <a href="www.linkedin.com/in/reka2405">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/reka_jajeindren/profilecard/?igsh=NmgwdWdzZHlzeDU3">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
 
-🔎 **Connect with me** 🔎  
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/reka2405)     [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/reka_jajeindren/profilecard/?igsh=NmgwdWdzZHlzeDU3)  
-
+</p>
 
 - 🔭 I’m currently working As a Trainee in UnicomTIC
 - 🌱 I’m currently learning FullStack Development
