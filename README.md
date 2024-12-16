@@ -1,8 +1,8 @@
 <p align="center">
 # Hey, It's me Reka. 
 🌟 Aspiring Full-Stack Developer 🌟 
-</p>
-<p align="center">
+
+
 🔎 **Connect with me** 🔎 
   <br>
  <a href="www.linkedin.com/in/reka2405">
@@ -12,17 +12,12 @@
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
 
-</p>
+
 
 - 🔭 I’m currently working As a Trainee in UnicomTIC
 - 🌱 I’m currently learning FullStack Development
 
-  
-## 📊 My GitHub Status 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Reka2402&show_icons=true&theme=dark)  
-
-### 🚀 Most Used Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Reka2402&layout=compact&theme=dark)  
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=joel-1641&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="165" alt="stats graph" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Reka2402&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="165" alt="languages graph" /> </div>
 
 
 ### 🛠 Languages and Tools  
@@ -33,7 +28,6 @@
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
 
-
 ## 🖥 Tools I Use  
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
@@ -42,6 +36,7 @@
 
 <p align="center"> 
   💻 **Turning ideas into seamless web experiences** 🚀  
+</p>
 </p>
 
 
